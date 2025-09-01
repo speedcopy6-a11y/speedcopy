@@ -275,7 +275,7 @@ const KolorowePage = () => (
                 </Desc>
             </TextWrapper>
         </KseroBox>
-        <KseroBox>
+        {/* <KseroBox>
             <IMGWrapper><img src={Bizhubc3350}alt="Wynajem kserokopiarek Piotrków Bizhub c3350"/></IMGWrapper>
             <TextWrapper>
                 <Title>Bizhub c3350</Title>
@@ -289,7 +289,7 @@ const KolorowePage = () => (
                     </StyledUl>
                 </Desc>
             </TextWrapper>
-        </KseroBox>
+        </KseroBox> */}
     </KseroContent>
     <Footer/>
   </Layout>
