@@ -22,7 +22,7 @@ import Bizhubc251i from "../../images/bizhub-C251i.png"
 import Bizhubc250i from "../../images/bizhub-c250ibig.png"
 import Bizhubc360i from "../../images/bizhub-c360i.png"
 import Bizhubc361i from "../../images/bizhub-c361i.png"
-import Bizhubc451i from "../../images/bizhub-c451i.png"
+import Bizhubc451i from "../../images/bizhub-C451i.png"
 
 const Hero = styled.div`
   margin: 120px 15em;
