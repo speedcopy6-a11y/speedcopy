@@ -195,6 +195,8 @@ const Nav = () => {
                         <li><Link to="/kserokopiarki/czarno-biale">Czarno-białe</Link></li>
                     </DropdownContent>
                 </li> */}
+
+          {/*  */}
           <li>
             <Link to="/kserokopiarki/kolorowe">Urządzenia</Link>
           </li>
