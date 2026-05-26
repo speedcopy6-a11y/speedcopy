@@ -99,7 +99,7 @@ const NavListMobile = styled.ul`
     color: white;
     font-size: 22px;
   }
-  li:nth-child(5),
+  /* li:nth-child(5),
   li:nth-child(6) {
     margin-left: 30px;
     position: relative;
@@ -113,7 +113,7 @@ const NavListMobile = styled.ul`
       height: 2px;
       background-color: white;
     }
-  }
+  } */
 `
 const TopBar = styled.div`
   height: 50px;
@@ -220,7 +220,7 @@ const Nav = () => {
             <li>
               <Link to="/dzierzawa-kserokopiarek">Dzierżawa</Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="#">Kserokopiarki</Link>
             </li>
             <li>
@@ -228,7 +228,11 @@ const Nav = () => {
             </li>
             <li>
               <Link to="/kserokopiarki/czarno-biale">Czarno-białe</Link>
+            </li> */}
+            <li>
+              <Link to="/kserokopiarki/kolorowe">Urządzenia</Link>
             </li>
+
             <li>
               <Link to="/serwis">Serwis</Link>
             </li>
